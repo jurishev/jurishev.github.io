@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marmelad&display=swap');
+
+body { background-color: #ada29f; font-family: 'IBM Plex Sans', sans-serif; }
+
+h1, h2, h3, h4 {
+  font-family: Marmelad, sans-serif;
+  font-weight: normal;
+}
+
+a { text-decoration: none; border-bottom: 1px solid #ccc2c0; }
+a:hover { text-decoration: none; }
+
+a.dim { color: #7f7f7f; }
+a.dim:hover { color: #ccc2c0; }
+
+a.black { color: #212529; }
+a.black:hover { color: #7f7f7f; }
+
+a.menu { color: white; border-bottom: 0; }
+a.menu:hover { text-decoration: underline; }
+
+.tab1	{ padding-left: 1cm; }
+.tab2	{ padding-left: 2cm; }
+.tab3	{ padding-left: 3cm; }
+.tab4	{ padding-left: 4cm; }
+
+strong { font-weight: 600; }
