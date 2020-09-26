@@ -17,8 +17,8 @@ a.dim:hover { color: #ccc2c0; }
 a.black { color: #212529; }
 a.black:hover { color: #7f7f7f; }
 
-a.menu { color: white; border-bottom: 0; }
-a.menu:hover { text-decoration: underline; }
+a.menu { color: #ccc2c0; border-bottom: 0; }
+a.menu:hover { color: white; text-decoration: underline; }
 
 .tab1	{ padding-left: 1cm; }
 .tab2	{ padding-left: 2cm; }
