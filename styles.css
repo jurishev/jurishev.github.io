@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Marmelad&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 
 body { background-color: #ada29f; font-family: 'IBM Plex Sans', sans-serif; }
 
@@ -26,3 +27,8 @@ a.menu:hover { color: white; text-decoration: underline; }
 .tab4	{ padding-left: 4cm; }
 
 strong { font-weight: 600; }
+
+p.mono {
+  font-family: 'Roboto Mono', Consolas, monospace;
+  white-space: pre;
+}
